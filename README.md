@@ -1,2 +1,1 @@
-# API-Movie-Web
-API Project
+API Movie web project using Bootstrap, JQuery, and Javascript Fetch
